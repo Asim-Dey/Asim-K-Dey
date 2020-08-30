@@ -1,13 +1,23 @@
-I am a  Visiting Research Collaborator in the Department of Electrical Engineering (EE) at Princeton University.   I work jointly with H. Vincent Poor at Princeton University and Yulia R. Gel at The University of  Texas at Dallas. In Summer 2019 I received my PhD from the department of Mathematical Sciences at The University of Texas at Dallas under the advice of Yulia R. Gel.  In Fall 2017 I was a Visiting Graduate Research Fellow  at Statistical and Applied Mathematical Sciences Institute ([SAMSI](https://www.samsi.info/)), NC. 
+I am a  Visiting Research Collaborator in the Department of Electrical Engineering (EE) at Princeton University and a Postdoctoral Research Associate at The University of  Texas at Dallas. I work jointly with H. Vincent Poor at Princeton University and Yulia R. Gel at The University of Texas at Dallas. In Summer 2019 I received my PhD from the department of Mathematical Sciences at The University of Texas at Dallas under the advice of Yulia R. Gel.  In Fall 2017 I was a Visiting Graduate Research Fellow  at Statistical and Applied Mathematical Sciences Institute ([SAMSI](https://www.samsi.info/)), NC. 
 
 
 You can use the [editor on GitHub](https://github.com/asimdey01/AsimDey/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Research interests
+1. Statistical methods for complex networks.
+2. Topological data analysis.
+3. Environmental statistics and extreme value modeling. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### Employment
+1. From Fall 2019:  Visiting Research Collaborator , Princeton University.
+2. From Fall 2019:  Postdoctoral Research Associate , UT Dallas.
+3. Summer 2018: Intern,  Pacific Northwest National Laboratory (PNNL).
+4. Oct 2011 - July 2013: Software Engineer, IMS Health, Dhaka, Bangladesh.
+
+
 
 ```markdown
 Syntax highlighted code block
