@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+%## Welcome to GitHub Pages
+
+
+I am a  Visiting Research Collaborator in the Department of Electrical Engineering (EE) at Princeton University.   I work jointly with H. Vincent Poor at Princeton University and Yulia R. Gel at The University of  Texas at Dallas. In Summer 2019 I received my PhD from the department of Mathematical Sciences at The University of Texas at Dallas under the advice of Yulia R. Gel.  In Fall 2017 I was a Visiting Graduate Research Fellow  at Statistical and Applied Mathematical Sciences Institute (SAMSI), NC. 
+
 
 You can use the [editor on GitHub](https://github.com/asimdey01/AsimDey/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
