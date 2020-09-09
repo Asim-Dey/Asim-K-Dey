@@ -26,14 +26,9 @@ List of my publications is available at [Google Scholar](https://scholar.google.
  
 ### Education
 Ph.D., Statistics, UT Dallas, 2019.         
-M.S., Mathematics, Lamar University, TX, 2015.                         
-M.S., Applied Statistics, University of Dhaka, 2010.                              
+M.S., Mathematics, [Lamar University](https://www.lamar.edu/), TX, 2015.                         
+M.S., Applied Statistics, [University of Dhaka](https://www.isrt.ac.bd/), 2010.                              
 B.Sc., Applied Statistics, University of Dhaka, 2009.                                        
- 
- 
- 
- 
- 
  
  
  
