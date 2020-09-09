@@ -16,10 +16,10 @@ List of my publications is available at [Google Scholar](https://scholar.google.
 
 
 ### Employment
-1. Fall 2019 - :  Visiting Research Collaborator, Princeton University.
-2. Fall 2019 - :  Postdoctoral Research Associate, The University of  Texas at Dallas.
-3. Summer 2018: Intern,  Pacific Northwest National Laboratory (PNNL).
-4. Oct 2011 - July 2013: Software Engineer, IMS Health, Dhaka, Bangladesh.
+Fall 2019 - :  Visiting Research Collaborator, Princeton University.
+Fall 2019 - :  Postdoctoral Research Associate, The University of  Texas at Dallas.
+Summer 2018: Intern,  Pacific Northwest National Laboratory (PNNL).
+Oct 2011 - July 2013: Software Engineer, IMS Health, Dhaka, Bangladesh.
 
  
  
@@ -30,24 +30,19 @@ M.S., Mathematics, [Lamar University](https://www.lamar.edu/), TX, 2015.
 M.S., Applied Statistics, [University of Dhaka](https://www.isrt.ac.bd/), 2010.                              
 B.Sc., Applied Statistics, University of Dhaka, 2009.                                        
  
- 
 ### Selected Awards and Honors
- 	2020 &  Best Paper Award, American Statistical Association (ASA) Section for Statistics in 
+ 2020 &  Best Paper Award, American Statistical Association (ASA) Section for Statistics in 
 			  Defense and National Security (SDNS).                      
   	2019 &  Best Paper Award, American Statistical Association (ASA) Section for Statistics in 
 		  Defense and National Security (SDNS). 
   
   		2018	&  PhD Research Small Grant, The University of Texas at Dallas, TX.
 
-  	2018	& Summer Institute Scholarship, Department of Biostatistics, University of Washington, WA.\
+  	2018	& Summer Institute Scholarship, Department of Biostatistics, University of Washington, WA.
   
-  	2018	& Summer Institute Scholarship, Department of Biostatistics, University of Washington, WA.\
+  	2018	& Summer Institute Scholarship, Department of Biostatistics, University of Washington, WA.
   
-  
-  
-  
-  
-  
+
   
 ```markdown
 Syntax highlighted code block
