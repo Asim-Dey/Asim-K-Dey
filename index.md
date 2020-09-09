@@ -41,8 +41,8 @@ B.Sc., Applied Statistics, University of Dhaka, 2009.
 
 ### External Research Grants
 2020--2021  & "RAPID: Collaborative Research: Operational COVID-19 Forecasting  with Multi-Source Information", NSF DMS 2027793,
-& Role: Senior Personnel; PI: Yulia R. Gel
-2020-2021 "UT Dallas NRUF Grant: Market Sensing with Cryptocurrency Chainlets:   Can We Learn More on the Traditional Economy from Non-Traditional Blockchain Data Sources", Role: Senior Personnel; PI: Irina Panovska. 
+& Role: Senior Personnel; PI: Yulia R. Gel                                            
+2020-2021 "UT Dallas NRUF Grant: Market Sensing with Cryptocurrency Chainlets:   Can We Learn More on the Traditional Economy from Non-Traditional Blockchain Data Sources", Role: Senior Personnel; PI: Irina Panovska.                                             
 
 
 
