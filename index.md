@@ -19,7 +19,7 @@ B.Sc., Applied Statistics, University of Dhaka, 2009.
 1. Statistical methods for complex networks.
 2. Topological data analysis.
 3. Extreme value modeling. 
-4. Statistical methods for environment and finance.
+4. Environmental statistics, and statistical methods for finance and economics.
 
 
 ### Publications
