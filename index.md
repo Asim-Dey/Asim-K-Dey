@@ -22,7 +22,7 @@ Summer 2018: Intern,  Pacific Northwest National Laboratory (PNNL).
 Oct 2011 - July 2013: Software Engineer, IMS Health, Dhaka, Bangladesh.
 
  
- 
+     
  
 ### Education
 Ph.D., Statistics, The University of  Texas at Dallas, 2019.         
