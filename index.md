@@ -39,7 +39,15 @@ B.Sc., Applied Statistics, University of Dhaka, 2009.
 2018 Summer Institute Scholarship, Department of Biostatistics, University of Washington, WA.                    
 2017 Graduate Research Fellowship, SAMSI, NC.                
 
-  
+### External Research Grants
+2020--2021  & "RAPID: Collaborative Research: Operational COVID-19 Forecasting  with Multi-Source Information", NSF DMS 2027793,
+& Role: Senior Personnel; PI: Yulia R. Gel
+2020-2021 "UT Dallas NRUF Grant: Market Sensing with Cryptocurrency Chainlets:   Can We Learn More on the Traditional Economy from Non-Traditional Blockchain Data Sources", Role: Senior Personnel; PI: Irina Panovska. 
+
+
+
+
+
 ```markdown
 Syntax highlighted code block
 
