@@ -46,7 +46,8 @@ B.Sc., Applied Statistics, University of Dhaka, 2009.
 20210-2022  What New Can We Learn on the Aggregate Economy through Lenses of Topological  Data Analysis and Non-Traditional Blockchain Data Sources? Role: co-PI; PI: Irina Panovska. (submitted)	
 
 ### Teaching 
-# Recent Courses at The University of  Texas at Dallas                          
+Recent Courses at The University of  Texas at Dallas      
+
 Guest Lecturer, "Multivariate Analysis by Data Depth", STAT 7331 Multivariate Analysis.                              
 STAT 3360 - Probability and Statistics for Manag. and Econ.                                
 MATH 2413 -  Differential Calculus                                
