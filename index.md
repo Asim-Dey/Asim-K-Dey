@@ -2,9 +2,9 @@ I am a  Visiting Research Collaborator in the Department of Electrical Engineeri
 
 
 ### Employment
-Fall 2019 - :  Visiting Research Collaborator, Princeton University.                                                 
-Fall 2019 - :  Postdoctoral Research Associate, The University of  Texas at Dallas.                                      
-Summer 2018: Intern,  Pacific Northwest National Laboratory (PNNL).                                  
+Fall 2019 - :  Visiting Research Collaborator, Princeton University.                                                                                                      
+Fall 2019 - :  Postdoctoral Research Associate, The University of  Texas at Dallas.                                                                                             
+Summer 2018: Intern,  Pacific Northwest National Laboratory (PNNL).                                                                                                             
 Oct 2011 - July 2013: Software Engineer, IMS Health, Dhaka, Bangladesh.                     
 
 
