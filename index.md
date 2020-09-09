@@ -17,9 +17,10 @@ B.Sc., Applied Statistics, University of Dhaka, 2009.
 
 ### Research interests
 1. Statistical methods for complex networks.
-2. Topological data analysis.
+2. Topological and geometric data analysis.
 3. Extreme value modeling. 
 4. Environmental statistics, and statistical methods for finance and economics.
+5. Statistical foundation of data science and machine learning.
 
 
 ### Publications
