@@ -31,8 +31,24 @@ M.S., Applied Statistics, [University of Dhaka](https://www.isrt.ac.bd/), 2010.
 B.Sc., Applied Statistics, University of Dhaka, 2009.                                        
  
  
- 
- 
+### Selected Awards and Honors
+ 	2020 &  Best Paper Award, American Statistical Association (ASA) Section for Statistics in 
+			  Defense and National Security (SDNS).                      
+  	2019 &  Best Paper Award, American Statistical Association (ASA) Section for Statistics in 
+		  Defense and National Security (SDNS). 
+  
+  		2018	&  PhD Research Small Grant, The University of Texas at Dallas, TX.
+
+  	2018	& Summer Institute Scholarship, Department of Biostatistics, University of Washington, WA.\
+  
+  	2018	& Summer Institute Scholarship, Department of Biostatistics, University of Washington, WA.\
+  
+  
+  
+  
+  
+  
+  
 ```markdown
 Syntax highlighted code block
 
