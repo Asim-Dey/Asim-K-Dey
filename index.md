@@ -28,7 +28,7 @@ B.Sc., Applied Statistics, University of Dhaka, 2009.
 List of my publications is available at [Google Scholar](https://scholar.google.com/citations?hl=en&user=h7Qmvt0AAAAJ&view_op=list_works&sortby=pubdate).
 
  
-                                       
+                                        
  
 ### Selected Awards and Honors
  2020  Best Paper Award, American Statistical Association (ASA) Section for Statistics in 
