@@ -53,6 +53,11 @@ STAT 3360 - Probability and Statistics for Manag. and Econ.
 MATH 2413 -  Differential Calculus                                
 MATH 2414 - Integral Calculus                                         
  
+### Professional Service
+Reviewer for Canadian Journal of Statistics, Computational Statistics & Data Analysis, Technometrics, Physica A: Statistical Mechanics and its Applications and REVSTAT.
+ 
+ 
+ 
  
  
 ```markdown
