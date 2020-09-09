@@ -57,7 +57,7 @@ MATH 2414 - Integral Calculus
 Reviewer for Canadian Journal of Statistics, Computational Statistics & Data Analysis, Technometrics, Physica A: Statistical Mechanics and its Applications and REVSTAT.
  
  
-My CV is available [here](https://drive.google.com/file/d/1rWrJneAuye_Rxl4i2GH4YIXInhrsEzcZ/view?usp=sharing)  here and is my  [ResearchGate] (https://www.researchgate.net/profile/Asim_Kumer_Dey) page.
+My CV is available [here](https://drive.google.com/file/d/1rWrJneAuye_Rxl4i2GH4YIXInhrsEzcZ/view?usp=sharing)  here and is my [ResearchGate](https://www.researchgate.net/profile/Asim_Kumer_Dey) page.
  
  
  
