@@ -1,7 +1,3 @@
-### [Research](https://github.com/asimdey01/AsimDey/blob/gh-pages/Research/)
-
-
-
 I am a  Visiting Research Collaborator in the Department of Electrical Engineering (EE) at Princeton University and a Postdoctoral Research Associate at The University of  Texas at Dallas. I work jointly with H. Vincent Poor at Princeton University and Yulia R. Gel at The University of Texas at Dallas. In Summer 2019 I received my PhD from the department of Mathematical Sciences at The University of Texas at Dallas under the advice of Yulia R. Gel.  In Fall 2017 I was a Visiting Graduate Research Fellow  at Statistical and Applied Mathematical Sciences Institute ([SAMSI](https://www.samsi.info/)), NC. 
 
 
@@ -13,6 +9,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 1. Statistical methods for complex networks.
 2. Topological data analysis.
 3. Environmental statistics and extreme value modeling. 
+
+### Publications
+
+List of my publications is available at [Google Scholar](https://scholar.google.com/citations?hl=en&user=h7Qmvt0AAAAJ&view_op=list_works&sortby=pubdate).
 
 
 ### Employment
