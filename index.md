@@ -43,7 +43,7 @@ List of my publications is available at [Google Scholar](https://scholar.google.
 2020--2021  & "RAPID: Collaborative Research: Operational COVID-19 Forecasting  with Multi-Source Information", NSF DMS 2027793,
 & Role: Senior Personnel; PI: Yulia R. Gel.                                            
 2020-2021 "UT Dallas NRUF Grant: Market Sensing with Cryptocurrency Chainlets: Can We Learn More on the Traditional Economy from Non-Traditional Blockchain Data Sources", Role: Senior Personnel; PI: Irina Panovska.                                             
-20210-2022  What New Can We Learn on the Aggregate Economy through Lenses of Topological  Data Analysis and Non-Traditional Blockchain Data Sources? Role: co-PI; PI: Irina Panovska. (submitted)	
+2021-2024  What New Can We Learn on the Aggregate Economy through Lenses of Topological  Data Analysis and Non-Traditional Blockchain Data Sources? Role: co-PI; PI: Irina Panovska. (submitted)	
 
 ### Teaching 
 Recent Courses at The University of  Texas at Dallas      
