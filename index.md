@@ -2,11 +2,12 @@ I am an assistant professor in the Department of Mathematical Sciences at The Un
 
 
 ### Employment
-Fall 2019 - present:   Visiting Research Collaborator, Princeton University.                                                                                                     
-Fall 2019 - present:   Postdoctoral Research Associate, The University of  Texas at Dallas.                                                                                     
-Summer 2018:           Intern,  Pacific Northwest National Laboratory (PNNL).                                                                                                   
-Oct 2011 - July 2013:  Software Engineer, IMS Health, Dhaka, Bangladesh.                     
-
+08/2021 - present: Assistant Professor (Tenure Track), Department of Mathematical Sciences,
+                   The University of Texas at El Paso.
+09/2019 – 10/2021: Visiting Research Collaborator, Princeton University.                                                                                                     
+09/2019 – 07/2021: Postdoctoral Research Associate, The University of  Texas at Dallas.                                                                                     
+Summer 2018:       Intern,  Pacific Northwest National Laboratory (PNNL).                                                                                                   
+                 
 
 ### Education
 Ph.D., Statistics, The University of  Texas at Dallas, 2019.         
@@ -18,9 +19,8 @@ B.Sc., Applied Statistics, University of Dhaka, 2009.
 ### Research interests
 1. Statistical methods for complex networks.
 2. Topological and geometric data analysis.
-3. Extreme value modeling. 
-4. Environmental statistics, and statistical methods for finance and economics.
-5. Statistical foundation of data science and machine learning.
+3. Extreme value modeling and Environmental statistics.
+4. Infectious Disease Modelling.
 
 
 ### Publications
