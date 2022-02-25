@@ -31,13 +31,16 @@ List of my publications is available at [Google Scholar](https://scholar.google.
                                          
  
 ### Selected Awards and Honors
- 2020  Best Paper Award, American Statistical Association (ASA) Section for Statistics in 
-			  Defense and National Security (SDNS).                                                 
+2021  Summer Institute (Statistics and Modeling in Infectious Diseases) Scholarship,
+      Department of Biostatistics, University of Washington, WA.
+2020  Best Paper Award, American Statistical Association (ASA) Section for Statistics in 
+      Defense and National Security (SDNS).                                                 
 2019  Best Paper Award, American Statistical Association (ASA) Section for Statistics in 
 		  Defense and National Security (SDNS).                                      
 2018  PhD Research Small Grant, The University of Texas at Dallas, TX.                   
-2018 Summer Institute Scholarship, Department of Biostatistics, University of Washington, WA.                    
-2017 Graduate Research Fellowship, SAMSI, NC.                 
+2018  Summer Institute (Statistical Genetics) Scholarship, Department of Biostatistics, 
+      University of Washington, WA.                   
+2017  Graduate Research Fellowship, SAMSI, NC.                 
 
 ### External Research Grants
 2020--2021  & "RAPID: Collaborative Research: Operational COVID-19 Forecasting  with Multi-Source Information", NSF DMS 2027793,
