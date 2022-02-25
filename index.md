@@ -1,4 +1,4 @@
-I am a  Visiting Research Collaborator in the Department of Electrical Engineering (EE) at Princeton University and a Postdoctoral Research Associate at The University of  Texas at Dallas. I work jointly with [H. Vincent Poor](https://ee.princeton.edu/people/h-vincent-poor) at Princeton University and [Yulia R. Gel](https://personal.utdallas.edu/~yxg142030/) at The University of Texas at Dallas. In Summer 2019 I received my PhD from the department of Mathematical Sciences at The University of Texas at Dallas under the advice of Yulia R. Gel.  In Fall 2017 I was a Visiting Graduate Research Fellow  at Statistical and Applied Mathematical Sciences Institute ([SAMSI](https://www.samsi.info/)), NC. 
+I am an assistant professor in the Department of Mathematical Sciences at The University of Texas at El Paso (UTEP). Before joining UTEP I was Visiting Research Collaborator in the Department of Electrical and Computer Engineering at Princeton University and a Postdoctoral Research Associate at The University of Texas at Dallas (UTD). While at UTD and Princeton University, I worked jointly with [H. Vincent Poor](https://ee.princeton.edu/people/h-vincent-poor) and [Yulia R. Gel](https://personal.utdallas.edu/~yxg142030/). In Fall 2017 I was a Visiting Graduate Research Fellow at Statistical and Applied Mathematical Sciences Institute (SAMSI), NC.
 
 
 ### Employment
@@ -28,7 +28,7 @@ B.Sc., Applied Statistics, University of Dhaka, 2009.
 List of my publications is available at [Google Scholar](https://scholar.google.com/citations?hl=en&user=h7Qmvt0AAAAJ&view_op=list_works&sortby=pubdate).
 
  
-                                        
+                                         
  
 ### Selected Awards and Honors
  2020  Best Paper Award, American Statistical Association (ASA) Section for Statistics in 
